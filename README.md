@@ -1,8 +1,10 @@
 # Camila Ignacia González Silva
+*Esta presentación se encuentra en español y en inglés.*
+*This profile is presented in both Spanish and English.*
 
-## Bienvenida / Bienvenido / Bienvenide 
+## ✴︎ ¡Bienvenida / Bienvenido / Bienvenide! ✴︎
 
-Este README ofrece una presentación inicial de mi perfil y del trabajo que iré reuniendo en este espacio.
+☞ Este README ofrece una presentación inicial de mi perfil y del trabajo que iré reuniendo en este espacio.
 
 Soy socióloga y vivo en Chile. Entiendo mi formación como un proceso continuo de aprendizaje, orientado a adquirir herramientas y metodologías que me permitan comprender problemas sociales complejos, producir conocimiento riguroso y contribuir a que ese conocimiento circule más allá de los espacios especializados. Me interesa especialmente fortalecer formas de trabajo que articulen investigación social, aprendizaje metodológico e incidencia social, con atención a los procesos de desigualdad y a las condiciones que hacen posible su transformación.
 
@@ -14,7 +16,7 @@ Una parte central de mi formación y de mi identidad también ha tenido lugar en
 
 ---
 
-## Intereses de investigación
+## → Intereses de investigación
 
 Mis intereses de investigación se sitúan en la intersección entre desigualdad social, sociología económica, vivienda, vida cotidiana y procesos de organización social. Me interesa comprender cómo arreglos institucionales, discursos y formas materiales estructuran prácticas económicas, trayectorias de vida y estrategias de reproducción social.
 
@@ -37,7 +39,7 @@ En particular, me interesan:
 
 ---
 
-## Herramientas y metodologías
+## ⚙︎ Herramientas y metodologías
 
 - Metodologías cualitativas y métodos mixtos
 - Metodologías visuales y participativas, incluyendo *photo elicitation* y *photovoice* como áreas de interés formativo
