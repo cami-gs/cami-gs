@@ -1,13 +1,16 @@
 # Camila Ignacia González Silva
+> She / Her | Sociologist | Ongoing learning in social research, collective work, and programming and systems analysis.
+
 *Esta presentación se encuentra en español y en inglés.*
-
 ✴︎
-
 *This profile is presented in both Spanish and English.*
+
 ---
 ---
 
 ## ✴︎ ¡Bienvenida / Bienvenido / Bienvenide! ✴︎
+
+Ella | Socióloga | Aprendizajes en investigación social, trabajo colectivo y Programación y Análisis de Sistemas
 
 ☞ Este README ofrece una presentación inicial de mi perfil y del trabajo y aprendizaje que iré reuniendo en este espacio.
 
@@ -50,12 +53,12 @@ Algunos de los temas que me interesan son:
 - Metodologías visuales y participativas, incluyendo *photo elicitation* y *photovoice* como áreas de interés
 - Entrevistas en profundidad, grupos focales, encuestas y observación
 - Diseño y aplicación de instrumentos de investigación
-- Análisis cualitativo con **Atlas.ti**
+- Análisis cualitativo con `Atlas.ti`
 - Sistematización de información
 - Libros de códigos y matrices analíticas
 - Informes técnicos, ponencias y coescritura de artículos científicos
-- **R** para ejercicios de análisis y visualización de información
-- **Excel** para organización y procesamiento de datos
+- `R` para ejercicios de análisis y visualización de información
+- `Excel` para organización y procesamiento de datos
 
 ---
 
@@ -63,7 +66,7 @@ Algunos de los temas que me interesan son:
 
 Actualmente complemento mi formación en sociología con estudios formales en **Programación y Análisis de Sistemas**, que curso en modalidad online junto con mi trabajo en investigación. Entiendo este proceso como una forma de ampliar mis herramientas analíticas, organizativas y digitales para la investigación social, especialmente en relación con la gestión de información, la sistematización y las formas de comunicación visual.
 
-En este momento, eso también incluye ejercicios en **R**, exploración de visualizaciones, materiales metodológicos y formas de organizar y sistematizar información de manera más clara y reproducible.
+En este momento, eso también incluye ejercicios en `R`, exploración de visualizaciones, materiales metodológicos y formas de organizar y sistematizar información de manera más clara y reproducible.
 
 La modalidad online me ha ayudado a desarrollar hábitos de organización, aprendizaje autónomo y trabajo sostenido en el tiempo.
 
@@ -75,19 +78,21 @@ Además, me interesa seguir aprendiendo alemán como parte de mi formación acad
 
 Este perfil funcionará como un espacio inicial para reunir, de forma progresiva, parte de mi recorrido y de mi proceso de aprendizaje. Aquí iré compartiendo:
 
-- ejercicios de **R**
+- ejercicios de `R`
 - apuntes de aprendizaje
 - tareas y ejercicios desarrollados en mis estudios técnicos
 - visualizaciones
 - materiales metodológicos
 - pequeños proyectos de sistematización vinculados a la investigación social y a la producción de conocimiento socialmente relevante
 
-
 ---
 ---
-
 
 ## ✴︎ Welcome ✴︎
+
+She / Her
+
+Sociologist | Ongoing learning in social research, collective work, and programming and systems analysis.
 
 ☞ This README offers an initial introduction to my profile and to the work and learning process I will gradually bring together here.
 
@@ -130,12 +135,12 @@ Some of the topics that interest me are:
 - Visual and participatory methodologies, including *photo elicitation* and *photovoice* as areas of interest
 - In-depth interviews, focus groups, surveys, and observation
 - Design and implementation of research instruments
-- Qualitative analysis with **Atlas.ti**
+- Qualitative analysis with `Atlas.ti`
 - Information systematization
 - Codebooks and analytical matrices
 - Technical reports, conference presentations, and co-writing of scientific articles
-- **R** for analysis and data visualization exercises
-- **Excel** for data organization and processing
+- `R` for analysis and data visualization exercises
+- `Excel` for data organization and processing
 
 ---
 
@@ -143,7 +148,7 @@ Some of the topics that interest me are:
 
 I am currently complementing my background in sociology with formal studies in **Programming and Systems Analysis**, which I pursue online alongside my research work. I understand this process as a way of expanding my analytical, organizational, and digital tools for social research, especially in relation to information management, systematization, and forms of visual communication.
 
-At present, this also includes exercises in **R**, the exploration of visualizations, methodological materials, and ways of organizing and systematizing information more clearly and reproducibly.
+At present, this also includes exercises in `R`, the exploration of visualizations, methodological materials, and ways of organizing and systematizing information more clearly and reproducibly.
 
 The online format has also helped me strengthen habits of organization, independent learning, and sustained work over time.
 
@@ -155,7 +160,7 @@ I am also interested in continuing to learn German as part of my academic format
 
 This profile will serve as an initial space to bring together, progressively, part of my trajectory and learning process. Here I will share:
 
-- **R** exercises
+- `R` exercises
 - learning notes
 - assignments and exercises developed in my technical studies
 - visualizations
