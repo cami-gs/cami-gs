@@ -4,6 +4,8 @@
 ✴︎
 
 *This profile is presented in both Spanish and English.*
+---
+---
 
 ## ✴︎ ¡Bienvenida / Bienvenido / Bienvenide! ✴︎
 
@@ -83,12 +85,7 @@ Este perfil funcionará como un espacio inicial para reunir, de forma progresiva
 
 ---
 ---
-# Camila Ignacia González Silva
-*Esta presentación se encuentra en español y en inglés.*
 
-✴︎
-
-*This profile is presented in both Spanish and English.*
 
 ## ✴︎ Welcome ✴︎
 
